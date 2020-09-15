@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /
+  port: 30001
+
+
+spring:
+  application:
+    name: kesapp

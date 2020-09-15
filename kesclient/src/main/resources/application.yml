@@ -1,0 +1,18 @@
+server:
+  servlet:
+    context-path: /
+  port: 30002
+
+
+spring:
+  application:
+    name: kesclient
+
+#feign:
+#  hystrix:
+#    enabled: true
+
+#ribbon:
+#  http:
+#    client:
+#      enabled: true
